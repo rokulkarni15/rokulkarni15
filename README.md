@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit!
-- 👀 I’m interested in System Design and Machine Learning
+- 👀 I’m interested in Backend development and a bit of Machine Learning
 - 👨‍🎓 I’m currently a grad student @ Northeastern
 - 📫 Reach me out on kulkarni.rohi@northeastern.edu
 
