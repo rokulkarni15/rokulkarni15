@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit!
-- 👀 I’m interested in Backend development and a bit of Machine Learning
+- 👀 I'm a software engineer exploring the intersection of backend development, distributed architectures, and generative AI applications.
 - 👨‍🎓 I’m currently a grad student @ Northeastern
-- 📫 Reach me out on kulkarni.rohi@northeastern.edu
+- 📫 Reach out to me on kulkarni.rohi@northeastern.edu
 
 
 <!---
